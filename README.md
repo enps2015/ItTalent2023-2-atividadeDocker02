@@ -1,7 +1,7 @@
 # ItTalent2023-2-atividadeDocker02
 Este repositório faz parte do programa IT TAlent na atividade 02 de Docker. Onde foi criada uma imagem docker contendo uma aplicação web de minha autoria e disponibilizada aqui no github.
 
-# Imagem Docker com aplicação web
+## Imagem Docker com aplicação web
 
 Atividade Docker 02
 
@@ -38,6 +38,13 @@ E após feito isso subi a imagem criada com a devida tag para o meu repositório
 ![image](https://github.com/enps2015/ItTalent2023-2-atividadeDocker02/assets/84017071/83bbdc10-6a0d-48cc-b942-bd78a4737453)
 
 ![image](https://github.com/enps2015/ItTalent2023-2-atividadeDocker02/assets/84017071/b96b4db8-6c1f-405b-a04e-41efc2538b13)
+
+A imagem docker foi baixada e colocada pra rodar na minha máquina local:
+
+- docker run -p 8080:80 039532/aplicacao-eric:eric1.0
+
+![image](https://github.com/enps2015/ItTalent2023-2-atividadeDocker02/assets/84017071/635809cf-80ab-4f2c-a800-2fbcc6f4eb2e)
+
 
 Docker hub:
 https://hub.docker.com/r/039532/aplicacao-eric/tags
