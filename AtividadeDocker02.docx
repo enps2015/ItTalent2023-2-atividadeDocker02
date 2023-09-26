@@ -1,0 +1,3 @@
+Atividade Docker 02
+
+Crie uma imagem Docker para uma aplicação de sua escolha, utilizando a linguagem de programação de sua preferência. Realize a etiquetagem (tag) desta imagem e faça o envio para o seu repositório pessoal no Docker Hub. Ao concluir esta tarefa, prepare um relatório que descreva o arquivo Dockerfile criado e inclua o link para a imagem publicada em seu Docker Hub. 
